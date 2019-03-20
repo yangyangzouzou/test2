@@ -1,0 +1,72 @@
+7 Types
+
+Primives Types
+Number
+string 
+boolean
+null
+undefined 
+symbol - new thing - out of the scope of this bootcamp 
+
+
+Object
+
+How many objects that you can count? 
+Non 
+oBJECT is a colletion of key values 
+
+// Number
+1*10-13 it is an expression but the result is a number 
+there is a special number called NaN (Not a Number)
+
+//boolean
+Just be operational not necessary to master all 
+true (1)
+Faulse (0)
+
+// Null
+there are not data yet - temporary OR definitive absence of data
+
+// undefined   
+means it's not even there, figure out well the difference between Null and undefined
+
+table of truth => false wins
+
+And table 
+True && true === true 
+false && false === false
+true && false === false 
+false && true === false 
+
+OR table = true wins
+True || True == true
+false || false === false
+ 
+Use: ** Number ()  boolean ()
+
+NOT NOT FALSE = FLASE  color:#ffffff
+
+
+Objects are collections of key/value pairs => they represent the real world Or abstrat entities 
+
+Var myself = {
+    Name: "Yang",
+    age: "29",
+    learnJS: True
+    color: Babyblue
+    phone: {
+        Brand: "Apple"
+        Color "white"
+    }
+}
+
+var is a box 
+vAR score = 0 
+=====ARRAY====
+var list = ["foo","bar","baz",1];
+console.log (list,type list);
+
+Read again how the internet work, in the servor, we can only wokr with JS without be necessary of learning PHP or SQL 
+
+
+research :MDM + 

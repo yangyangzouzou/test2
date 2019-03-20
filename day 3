@@ -1,0 +1,56 @@
+check the difference bt padding and margin margin < border< padding < body 
+Auto in margin *
+JavaScript Object Notation - created by Crockford *
+js is run in node environment
+Js is just a brand
+TypeScript - open source language
+
+
+// In JS 6 values are considered as "falsy"
+6 values - "falsy"
+- false 
+- null 
+- undefined 
+- 0 
+- NaN 
+- ""
+// all others are "truthy"
+
+if (valuehereisfalse- for ex, user = "") {
+    console.log ("you will never end up here !")
+}  else {
+    console.log ("you are here actually")
+}
+
+
+
+// while
+
+var limit = 100, count = 0; 
+
+do ( console.log ("count =>", count);
+count + = 1
+
+) while(count < limit)
+
+Var fruit =["peach", "mango", "lime", "tomato"];
+
+for ( let i = 0; i < fruit.length; i++) {
+console.log (fruit[i]);
+if (fruits [i] === "mango") {
+    break;
+}
+}
+
+Var classMatrix = [
+
+
+]
+
+(function () {
+    "use strict"
+    console.log ("here we are!");
+} () ) // use this one here, with these two parentheses arranged like this: we call it' DOG Blls'
+
+ - function is used for API
+
